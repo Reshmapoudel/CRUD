@@ -1,0 +1,14 @@
+:root{
+    --primary-navbar: #9FBB77;
+}
+.navbar{
+    background-color: var(--primary-navbar);
+    color: white;
+    // max-height: 10vh;
+    .logo{
+        text-transform: uppercase;
+    }
+    .ml-auto{
+        text-transform: capitalize;
+    }
+}

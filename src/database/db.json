@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Reshma Poudel",
+      "username": "reshma12",
+      "email": "reshmapoudel815@gmail.com",
+      "phone": "9845255362322",
+      "id": 1
+    },
+    {
+      "name": "Rohan Poudel",
+      "username": "rohan",
+      "email": "rohan@gmail.com",
+      "phone": "2641541+646",
+      "id": 2
+    },
+    {
+      "name": "ram",
+      "username": "ram55",
+      "email": "ram@gmail.com",
+      "phone": "1234665",
+      "id": 3
+    },
+    {
+      "name": "mike",
+      "username": "mike55",
+      "email": "mike@gmail.com",
+      "phone": "4665",
+      "id": 4
+    },
+    {
+      "name": "john doe",
+      "username": "johndoe45",
+      "email": "johndoe@gmail.com",
+      "phone": "666",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.form-cont{
+    display: flex;
+    justify-content: center;
+
+    .form{
+    width: 50%; 
+    margin: 50px;
+    
+    .input-field{
+        margin: 2rem 0 0 0;
+    }
+    .btn{
+        width: 15rem;
+        margin: 3.125rem 0 0 12rem;
+    }
+}
+}
